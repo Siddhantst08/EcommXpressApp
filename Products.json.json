@@ -1,0 +1,119 @@
+[
+  {
+    "id": 2,
+    "categoryId": 4,
+    "name": "The Indian Shorts",
+    "price": 699,
+    "description": "Athletic Sports Shorts for Men with Zip Pockets",
+    "quantity": 15,
+    "imagePath": "https://localhost:7194/Resources\\Images\\shorts.jpg"
+  },
+  {
+    "id": 3,
+    "categoryId": 4,
+    "name": "feranoid Kurti",
+    "price": 569,
+    "description": "Women Cotton Printed Straight Short Kurti, Very Soft and Durable",
+    "quantity": 12,
+    "imagePath": "https://localhost:7194/Resources\\Images\\kurta.jpg"
+  },
+  {
+    "id": 6,
+    "categoryId": 6,
+    "name": "Faber Chimney",
+    "price": 7999,
+    "description": "Kitchen Chimney (HOOD PLUTO PB BF BK 60, Baffle Filter, Push Button, Black)",
+    "quantity": 12,
+    "imagePath": "https://localhost:7194/Resources\\Images\\chimney.jpg"
+  },
+  {
+    "id": 7,
+    "categoryId": 6,
+    "name": "Haier 175L Fridge",
+    "price": 14999,
+    "description": "175L 2-Star Direct Cool Single Door Refrigerator (2024 Model)",
+    "quantity": 15,
+    "imagePath": "https://localhost:7194/Resources\\Images\\fridge.jpg"
+  },
+  {
+    "id": 8,
+    "categoryId": 6,
+    "name": "Bajaj Mixer Grinder",
+    "price": 1210,
+    "description": "Heavy Duty 100% Copper Motor | Deep Flow Breaker| Superfast Grinding | 4 Jars | Black, ",
+    "quantity": 14,
+    "imagePath": "https://localhost:7194/Resources\\Images\\mixer.jpg"
+  },
+  {
+    "id": 9,
+    "categoryId": 6,
+    "name": "duroflex Sofa Set",
+    "price": 19759,
+    "description": " duroflex Utopia -Person Sofa Premium Fabric Sofa Set, (Grey)",
+    "quantity": 19,
+    "imagePath": "https://localhost:7194/Resources\\Images\\sofa.jpg"
+  },
+  {
+    "id": 10,
+    "categoryId": 5,
+    "name": "Noise Aura Buds",
+    "price": 1399,
+    "description": "Truly Wireless Earbuds with 60H of Playtime, Quad Mic with ENC",
+    "quantity": 19,
+    "imagePath": "https://localhost:7194/Resources\\Images\\airpods.jpg"
+  },
+  {
+    "id": 11,
+    "categoryId": 5,
+    "name": "Apple iPhone 15 pro",
+    "price": 127990,
+    "description": "FORGED IN TITANIUM — iPhone 15 Pro has a strong and light aerospace-grade",
+    "quantity": 18,
+    "imagePath": "https://localhost:7194/Resources\\Images\\iphone.jpg"
+  },
+  {
+    "id": 12,
+    "categoryId": 5,
+    "name": "JBL Tune",
+    "price": 6498,
+    "description": "770NC Wireless Over Ear ANC Headphones with Mic, Upto 70 Hrs Playtime",
+    "quantity": 12,
+    "imagePath": "https://localhost:7194/Resources\\Images\\headphone.jpg"
+  },
+  {
+    "id": 15,
+    "categoryId": 6,
+    "name": "PHILIPS Air Fryer",
+    "price": 6999,
+    "description": "uses up to 90% less fat, 1400W, 4.1 Liter, with Rapid Air Technology (Black), Large\n",
+    "quantity": 25,
+    "imagePath": "https://localhost:7194/Resources\\Images\\airfryer.jpg"
+  },
+  {
+    "id": 16,
+    "categoryId": 4,
+    "name": "Polo Tshirts",
+    "price": 999,
+    "description": "Hangout Hub Men Women Girl Cotton Regular Fit-We are one Color-Set",
+    "quantity": 18,
+    "imagePath": "https://localhost:7194/Resources\\Images\\tshirt.jpg"
+  },
+  {
+    "id": 17,
+    "categoryId": 4,
+    "name": "Levi's Shirt",
+    "price": 1999,
+    "description": "Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt",
+    "quantity": 20,
+    "imagePath": "https://localhost:7194/Resources\\Images\\shirt.jpg"
+  },
+  {
+    "id": 18,
+    "categoryId": 4,
+    "name": "White Dress",
+    "price": 999,
+    "description": "Floral Print Cotton Dress for Girls II Birthday Dress for Girls II Stylish",
+    "quantity": 10,
+    "imagePath": "https://localhost:7194/Resources\\Images\\kids.jpg"
+  }
+]
